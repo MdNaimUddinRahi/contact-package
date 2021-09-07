@@ -1,0 +1,19 @@
+{
+    "name": "jobtask/structure",
+    "description": "this will create some input text and send it to database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jobtask\\Structure\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MdNaimUddinRahi",
+            "email": "mdnaimuddinrahi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
