@@ -5,4 +5,4 @@
 4. then command in terminal:: php artisan migrate.
 5. then command in terminal:: php artisan serve.
 6. try to run the url for the form in browser: http://host/contact (Note:: host= 127.0.0.1 or any)
-## this will save the details about contact or user to Database
+>> this package create contact form and store data from the database with validation input.
